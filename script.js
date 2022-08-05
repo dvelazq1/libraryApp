@@ -8,3 +8,8 @@ function Book(title, author, pageCount, status) {
     }
     console.log(this.info());
 }
+
+let myLibrary = [];
+function addBookToLibrary(){
+
+}

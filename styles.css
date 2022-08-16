@@ -6,9 +6,10 @@ body {
     background-color: #f499dfb4;
 }
 h1{
-    font-size: 2em;
+    font-size: 1.8em;
     grid-column: 1/1;
     text-align: center;
+    padding: 10px 0px;
 }
 
 

@@ -1,61 +1,61 @@
 body {
-    font-family: 'Times New Roman', Times, serif;
-    background-color: #f499dfb4;
+  font-family: "Times New Roman", Times, serif;
+  background-color: #f499dfb4;
 }
-h1{
-    grid-column: 1/1;
-    text-align: center;
-    font-size: 2em;
-    padding: 10px 0px;
-    font-weight: bold;
+h1 {
+  grid-column: 1/1;
+  text-align: center;
+  font-size: 2em;
+  padding: 10px 0px;
+  font-weight: bold;
 }
-
 
 #addBook {
-    margin: 0 auto;
-    border: 3px solid #000;
-    border-radius: 40px;
-    padding: 20px 15px;
-    background-color: #fbdcff;
-    text-align: center;
-    font-style: italic;
+  margin: 0 auto;
+  border: 3px solid #000;
+  border-radius: 40px;
+  padding: 20px 15px;
+  background-color: #fbdcff;
+  text-align: center;
+  font-style: italic;
 }
 
 #addBook h2 {
-    font-size: 1.5em;
-    text-align: center;
+  font-size: 1.5em;
+  text-align: center;
 }
 
-#bookCollection { 
-    margin: 0px auto;
-    border: 3px solid #000;
-    border-radius: 40px;
-    padding: 5px 40px;
-    background-color: #fbdcff;
-    text-align: center;
-    font-style: italic;
+#bookCollection {
+  margin: 0px auto;
+  border: 3px solid #000;
+  border-radius: 40px;
+  padding: 5px 40px;
+  background-color: #fbdcff;
+  text-align: center;
+  font-style: italic;
 }
 
 table {
-    border-collapse: collapse;
-    color:#d52a7f;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    text-transform: uppercase;
-    font-style: normal;
-  }
-  
-  td, th {
-    border: 1px solid #e58cd2c3;
-    text-align: center;
-    padding: 8px;
-  }
+  border-collapse: collapse;
+  color: #d52a7f;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-transform: uppercase;
+  font-style: normal;
+}
+
+td,
+th {
+  border: 1px solid #e58cd2c3;
+  text-align: center;
+  padding: 8px;
+}
 
 .btn-block {
-    background-color: #000000cd;
-    color:#ffffff;
-    border: none;
-    border-radius: 20px;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    text-transform: uppercase;
-    font-style: normal;
+  background-color: #000000cd;
+  color: #ffffff;
+  border: none;
+  border-radius: 20px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-transform: uppercase;
+  font-style: normal;
 }

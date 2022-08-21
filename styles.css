@@ -59,3 +59,21 @@ th {
   text-transform: uppercase;
   font-style: normal;
 }
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #000000;
+    color: #fbdcff;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    text-transform: lowercase;
+    padding-top: 10px;
+}
+
+.footer a {
+  color: #d52a7f;
+  text-decoration: underline;
+}
